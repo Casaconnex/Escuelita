@@ -1,0 +1,36 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Jardin.chm
+Contents file=contenido.hhc
+Default Font=Verdana,8,0
+Default topic=index.htm
+Display compile progress=Yes
+Full-text search=Yes
+Index file=Indice.hhk
+Language=0xc0a Español (alfabetización internacional)
+Title=Ayuda en Línea de Jardín
+
+
+[FILES]
+index.htm
+menu.htm
+acceso.htm
+carga.htm
+inscripciones.htm
+listadoespera.htm
+matriculas.htm
+pagos.htm
+reportes.htm
+usuarios.htm
+consultas.htm
+empleados.htm
+MATERIAL.htm
+certificados.htm
+copiaseguridad.htm
+VISOR.htm
+buscar.htm
+ingresos.htm
+compras.htm
+
+[INFOTYPES]
+
